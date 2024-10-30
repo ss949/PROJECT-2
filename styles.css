@@ -1,0 +1,40 @@
+*{
+    background-color:lightcoral;
+}
+
+H1{
+
+    color:black;
+    text-align:left;
+    margin-left: 6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    outline: 4px solid black;
+    display: block;
+    width: 25%;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.2{
+    outline: 4px solid black;
+    display: block;
+    width: 25%;
+    font-family: fantasy;
+}
+
+.3{
+    outline: 4px solid black;
+    display: block;
+    width: 25%;
+    font-family: fantasy;
+}
+
+.4{
+    outline: 4px solid black;
+    display: block;
+    width: 25%;
+    font-family: fantasy;
+}
